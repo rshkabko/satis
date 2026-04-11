@@ -25,7 +25,7 @@ jobs:
           php-version: '8.2'
 
       - name: Install Satis
-        run: composer create-project composer/satis --no-dev
+        run: composer create-project composer/satis:dev-main --no-dev --stability=dev
 
       - name: Build
         run: php satis/bin/satis build satis.json output
