@@ -1,0 +1,15 @@
+{                                     
+      "name": "flamix/packages",
+      "homepage": "https://rshkabko.github.io/satis",                                                                                                                                                      
+      "repositories": [
+          {"type": "vcs", "url": "git@github.com:rshkabko/rest.git"},                                                                                                                                      
+          {"type": "vcs", "url": "git@github.com:rshkabko/ui-saas.git"},                                                                                                                                 
+          {"type": "vcs", "url": "git@github.com:rshkabko/ui-saas-user.git"},   
+          {"type": "vcs", "url": "git@github.com:rshkabko/ui-saas-currency.git"},
+          {"type": "vcs", "url": "git@github.com:rshkabko/ui-saas-permission.git"},
+          {"type": "vcs", "url": "git@github.com:rshkabko/ui-saas-notifications.git"},                                                                                                                     
+          {"type": "vcs", "url": "git@github.com:rshkabko/livewire-forms.git"}, 
+          {"type": "vcs", "url": "git@github.com:rshkabko/auth.git"}                                                                                                                                       
+      ],                                                                                                                                                                                                 
+      "require-all": true                                                                                                                                                                                  
+  }
