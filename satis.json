@@ -8,8 +8,10 @@
           {"type": "vcs", "url": "git@github.com:rshkabko/ui-saas-currency.git"},
           {"type": "vcs", "url": "git@github.com:rshkabko/ui-saas-permission.git"},
           {"type": "vcs", "url": "git@github.com:rshkabko/ui-saas-notifications.git"},                                                                                                                     
-          {"type": "vcs", "url": "git@github.com:rshkabko/livewire-forms.git"}, 
-          {"type": "vcs", "url": "git@github.com:rshkabko/auth.git"}                                                                                                                                       
+          {"type": "vcs", "url": "git@github.com:rshkabko/livewire-forms.git"},
+          {"type": "vcs", "url": "git@github.com:rshkabko/auth.git"},
+          {"type": "vcs", "url": "git@github.com:rshkabko/ui-ai-skills.git"},
+          {"type": "vcs", "url": "git@github.com:rshkabko/zero-downtime-envoy.git"}
       ],                                                                                                                                                                                                 
       "require-all": true                                                                                                                                                                                  
   }
