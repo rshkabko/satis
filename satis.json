@@ -10,6 +10,7 @@
           {"type": "vcs", "url": "git@github.com:rshkabko/ui-saas-notifications.git"},
           {"type": "vcs", "url": "git@github.com:rshkabko/ui-saas-custom-domains.git"},
           {"type": "vcs", "url": "git@github.com:rshkabko/ui-saas-custom-fields.git"},
+          {"type": "vcs", "url": "git@github.com:rshkabko/ui-saas-field-sections.git"},
           {"type": "vcs", "url": "git@github.com:rshkabko/livewire-forms.git"},
           {"type": "vcs", "url": "git@github.com:rshkabko/auth.git"},
           {"type": "vcs", "url": "git@github.com:rshkabko/ui-ai-skills.git"},
