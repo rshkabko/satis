@@ -6,6 +6,7 @@
           {"type": "vcs", "url": "git@github.com:rshkabko/ui-saas.git"},                                                                                                                                 
           {"type": "vcs", "url": "git@github.com:rshkabko/ui-saas-user.git"},   
           {"type": "vcs", "url": "git@github.com:rshkabko/ui-saas-currency.git"},
+          {"type": "vcs", "url": "git@github.com:rshkabko/ui-saas-wallet.git"},
           {"type": "vcs", "url": "git@github.com:rshkabko/ui-saas-permission.git"},
           {"type": "vcs", "url": "git@github.com:rshkabko/ui-saas-notifications.git"},
           {"type": "vcs", "url": "git@github.com:rshkabko/ui-saas-custom-domains.git"},
