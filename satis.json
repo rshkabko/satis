@@ -14,6 +14,7 @@
           {"type": "vcs", "url": "git@github.com:rshkabko/ui-saas-category.git"},
           {"type": "vcs", "url": "git@github.com:rshkabko/ui-saas-catalog.git"},
           {"type": "vcs", "url": "git@github.com:rshkabko/ui-saas-field-sections.git"},
+          {"type": "vcs", "url": "git@github.com:rshkabko/placement.git"},
           {"type": "vcs", "url": "git@github.com:rshkabko/ui-saas-document-builder.git"},
           {"type": "vcs", "url": "git@github.com:rshkabko/livewire-forms.git"},
           {"type": "vcs", "url": "git@github.com:rshkabko/auth.git"},
