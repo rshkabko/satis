@@ -19,7 +19,8 @@
           {"type": "vcs", "url": "git@github.com:rshkabko/livewire-forms.git"},
           {"type": "vcs", "url": "git@github.com:rshkabko/auth.git"},
           {"type": "vcs", "url": "git@github.com:rshkabko/ui-ai-skills.git"},
-          {"type": "vcs", "url": "git@github.com:rshkabko/zero-downtime-envoy.git"}
+          {"type": "vcs", "url": "git@github.com:rshkabko/zero-downtime-envoy.git"},
+          {"type": "vcs", "url": "git@github.com:rshkabko/webhook.git"}
       ],                                                                                                                                                                                                 
       "require-all": true                                                                                                                                                                                  
   }
