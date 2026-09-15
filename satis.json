@@ -2,7 +2,8 @@
       "name": "flamix/packages",
       "homepage": "https://rshkabko.github.io/satis",                                                                                                                                                      
       "repositories": [
-          {"type": "vcs", "url": "git@github.com:rshkabko/rest.git"},                                                                                                                                      
+          {"type": "vcs", "url": "git@github.com:rshkabko/rest.git"},
+          {"type": "vcs", "url": "git@github.com:rshkabko/rest-mcp.git"},                                                                                                                                      
           {"type": "vcs", "url": "git@github.com:rshkabko/ui-saas.git"},                                                                                                                                 
           {"type": "vcs", "url": "git@github.com:rshkabko/ui-saas-user.git"},   
           {"type": "vcs", "url": "git@github.com:rshkabko/ui-saas-currency.git"},
