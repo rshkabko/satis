@@ -1,28 +1,95 @@
-{                                     
-      "name": "flamix/packages",
-      "homepage": "https://rshkabko.github.io/satis",                                                                                                                                                      
-      "repositories": [
-          {"type": "vcs", "url": "git@github.com:rshkabko/rest.git"},
-          {"type": "vcs", "url": "git@github.com:rshkabko/rest-mcp.git"},                                                                                                                                      
-          {"type": "vcs", "url": "git@github.com:rshkabko/ui-saas.git"},                                                                                                                                 
-          {"type": "vcs", "url": "git@github.com:rshkabko/ui-saas-user.git"},   
-          {"type": "vcs", "url": "git@github.com:rshkabko/ui-saas-currency.git"},
-          {"type": "vcs", "url": "git@github.com:rshkabko/ui-saas-wallet.git"},
-          {"type": "vcs", "url": "git@github.com:rshkabko/ui-saas-permission.git"},
-          {"type": "vcs", "url": "git@github.com:rshkabko/ui-saas-notifications.git"},
-          {"type": "vcs", "url": "git@github.com:rshkabko/ui-saas-custom-domains.git"},
-          {"type": "vcs", "url": "git@github.com:rshkabko/ui-saas-custom-fields.git"},
-          {"type": "vcs", "url": "git@github.com:rshkabko/ui-saas-category.git"},
-          {"type": "vcs", "url": "git@github.com:rshkabko/ui-saas-catalog.git"},
-          {"type": "vcs", "url": "git@github.com:rshkabko/ui-saas-field-sections.git"},
-          {"type": "vcs", "url": "git@github.com:rshkabko/placement.git"},
-          {"type": "vcs", "url": "git@github.com:rshkabko/ui-saas-document-builder.git"},
-          {"type": "vcs", "url": "git@github.com:rshkabko/livewire-forms.git"},
-          {"type": "vcs", "url": "git@github.com:rshkabko/auth.git"},
-          {"type": "vcs", "url": "git@github.com:rshkabko/ui-ai-skills.git"},
-          {"type": "vcs", "url": "git@github.com:rshkabko/zero-downtime-envoy.git"},
-          {"type": "vcs", "url": "git@github.com:rshkabko/webhook.git"},
-          {"type": "vcs", "url": "git@github.com:rshkabko/license.git"}
-      ],                                                                                                                                                                                                 
-      "require-all": true                                                                                                                                                                                  
-  }
+{
+    "name": "flamix/packages",
+    "homepage": "https://rshkabko.github.io/satis",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:rshkabko/rest.git"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:rshkabko/rest-mcp.git"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:rshkabko/ui-saas.git"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:rshkabko/ui-saas-user.git"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:rshkabko/ui-saas-currency.git"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:rshkabko/ui-saas-wallet.git"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:rshkabko/ui-saas-permission.git"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:rshkabko/ui-saas-notifications.git"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:rshkabko/ui-saas-custom-domains.git"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:rshkabko/ui-saas-custom-fields.git"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:rshkabko/ui-saas-category.git"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:rshkabko/ui-saas-catalog.git"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:rshkabko/ui-saas-field-sections.git"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:rshkabko/placement.git"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:rshkabko/ui-saas-document-builder.git"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:rshkabko/livewire-forms.git"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:rshkabko/auth.git"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:rshkabko/ui-ai-skills.git"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:rshkabko/zero-downtime-envoy.git"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:rshkabko/webhook.git"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:rshkabko/license.git"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:rshkabko/ui-saas-license.git"
+        }
+    ],
+    "require-all": true
+}
