@@ -24,8 +24,9 @@ jobs:
         with:
           php-version: '8.4'
 
+      # Not dev-main: since 23 Nov 2026 it needs composer-plugin-api ^2.11, which no stable Composer ships yet.
       - name: Install Satis
-        run: composer create-project composer/satis:dev-main --no-dev --stability=dev
+        run: composer create-project composer/satis:3.x-dev --no-dev --stability=dev
 
       - name: Build
         run: php satis/bin/satis build satis.json output
